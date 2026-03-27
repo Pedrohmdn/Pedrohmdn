@@ -1,5 +1,5 @@
 # 💫 About Me:
--👋 Olá, eu sou o Pedro Henrique. Atualmente desenvolvedor Web(Front-End) e estudando para ser um desenvolvedor Full-Stack.<br><br>-🌱 Estudando no Momento/Próximos estudos: TypeScript, Next.JS e Node.JS.<br><br>-📫 Pode me contatar em:  pedro.hmacedo2@gmail.com
+-👋 Olá, eu sou o Pedro Henrique. Atualmente desenvolvedor Web(Front-End) e estudando para ser um desenvolvedor Full-Stack.<br><br><br><br>-📫 Pode me contatar em:  pedro.hmacedo2@gmail.com
 
 
 # 💻 Tech Stack:
